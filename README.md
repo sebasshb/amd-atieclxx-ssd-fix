@@ -1,5 +1,7 @@
 # AMD atieclxx SSD fix (manual)
 
+🇪🇸 Versión en español: [sebasshb/amd-atieclxx-ssd-fix-es](https://github.com/sebasshb/amd-atieclxx-ssd-fix-es)
+
 A **manual, transparent** workaround for the AMD Radeon driver bug where the **"AMD External Events Utility"** service (`atieclxx.exe`) writes to the system drive non-stop, at about **54–56 GB per day**, **without disabling the service**. **VRR/FreeSync** and Adrenalin hotkeys keep working.
 
 > ⚠️ **Unofficial** workaround, not affiliated with AMD. Use at your own risk (see [LICENSE](LICENSE)).
